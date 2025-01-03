@@ -70,11 +70,11 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=light)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=light)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light)
 
 ---
 
