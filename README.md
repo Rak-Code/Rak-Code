@@ -22,12 +22,15 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 ## 💻 Skills
 
 ### **Frontend Development**
+
 - HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
 
 ### **Backend Development**
+
 - Java | MySQL | MongoDB | Python
 
 ### **Tools & Platforms**
+
 - Git | GitHub | Netlify | EmailJS
 
 ---
@@ -35,6 +38,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 ## 🌟 Projects
 
 ### 1. [Portfolio Website](https://github.com/Rak-Code/rakportfolio)
+
 - **Technologies Used**: React.js, Tailwind CSS
 - **Features**:
   - Dynamic project showcase with live GitHub repository links and demos.
@@ -42,6 +46,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
   - Integrated contact form with EmailJS for easy communication.
 
 ### 2. [Banking Management System](https://github.com/Rak-Code/BankingManagementSystem)
+
 - **Technologies Used**: Core Java
 - **Key Features**:
   - Account management with unique IDs, balances, and interest rates.
@@ -49,6 +54,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
   - Demonstrated OOP principles: encapsulation, inheritance, and polymorphism.
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)
+
 - **Technologies Used**: MySQL
 - **Key Contributions**:
   - Designed a database schema for user management, order processing, and product handling.
@@ -57,10 +63,33 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 
 ---
 
+## 📊 My GitHub Stats
+# Hi there, I'm Rakesh Gupta! 👋
+
+---
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=dark)
+
+---
+
+
+
+
+
+
+
+---
+
 ## 🌍 Connect with Me
 
 - **GitHub**: [Rak-Code](https://github.com/Rak-Code)
-- **Email**: rakeshgupta136a@gmail.com
+- **Email**: [rakeshgupta136a@gmail.com](mailto\:rakeshgupta136a@gmail.com)
 - **Phone**: +91 7715820632
 
 ---
