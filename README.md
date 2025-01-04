@@ -60,14 +60,14 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
   - Integrated contact form with **EmailJS** for easy communication.  
 
 ### 2. [Banking Management System](https://github.com/Rak-Code/BankingManagementSystem)  
-- **Technologies Used**: Core Java  
+- **Technologies Used**: Core Java, JDBC  
 - **Key Features**:  
   - Account management with unique IDs, balances, and interest rates.  
   - Real-time transaction validation with custom exception handling.  
   - Demonstrated OOP principles: encapsulation, inheritance, and polymorphism.  
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)  
-- **Technologies Used**: MySQL, JDBC  
+- **Technologies Used**: MySQL 
 - **Key Contributions**:  
   - Designed a database schema for user management, order processing, and product handling.  
   - Implemented stored procedures and views for efficient data management.  
