@@ -81,6 +81,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=light&langs_count=10)  
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rak-Code&theme=default&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
