@@ -1,6 +1,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rak-Code)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=css,html)](https://github.com/Rak-Code/github-readme-stats)
+
 Here’s the updated version of your GitHub README with **JDBC** and additional skills included, along with improved formatting and additional highlights:  
 
 ---
