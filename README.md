@@ -1,5 +1,8 @@
 # Hi there, I'm Rakesh Gupta! 👋  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rak-Code)](https://git.io/streak-stats) 
+### GitHub Streak
+🔥 Longest Streak: **0 days**
+💻 Current Streak: **0 days**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=css,html)](https://github.com/Rak-Code/github-readme-stats)
 
 Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to solving problems and delivering high-quality results. Here's a glimpse into my journey, skills, and projects.  
