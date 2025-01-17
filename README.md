@@ -38,12 +38,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
 - HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap  
 
 ### **Backend Development**  
-- Java | JDBC | MySQL | MongoDB | Python | Spring Boot  
+- Java | JDBC | MySQL | MongoDB | Spring Boot  
 
 ### **Database Management**  
 - MySQL | MongoDB  
   - Schema Design  
-  - Writing Stored Procedures, Views, and Triggers  
+      
 
 ### **Tools & Platforms**  
 - Git | GitHub | Netlify | Eclipse IDE | Postman  
@@ -93,6 +93,3 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
 
 Feel free to collaborate and build amazing projects with me! ✨  
 
----
-
-Let me know if there are more changes you'd like!
