@@ -1,6 +1,4 @@
-Here's your updated GitHub README with the second project replaced by the fourth one and additional skills like JDBC and Spring Boot added:
 
----
 
 # Hi there, I'm Rakesh Gupta! 👋  
 
