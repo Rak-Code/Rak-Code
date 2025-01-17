@@ -1,9 +1,13 @@
+Here's your updated GitHub README with the second project replaced by the fourth one and additional skills like JDBC and Spring Boot added:
+
+---
+
 # Hi there, I'm Rakesh Gupta! 👋  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=css,html)](https://github.com/Rak-Code/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=css,html)](https://github.com/Rak-Code/github-readme-stats)  
 
-Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to solving problems and delivering high-quality results. Here's a glimpse into my journey, skills, and projects.  ....... 
+Welcome to my GitHub profile! I'm a passionate Software Developer known for problem-solving skills and delivering high-quality results in dynamic environments. Here's a glimpse into my journey, skills, and projects.
 
 ---
 
@@ -13,20 +17,20 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
   Bachelor's of Science in Information Technology from **Chetana Institute of Management and Research College** (CGPA: 8.83/10).  
 
 - 🌱 **Currently Learning**:  
-  Advancing my knowledge in **Full Stack Development**, with a focus on **Java**, **React**, and **MySQL**.  
+  Advancing in **Full Stack Development**, focusing on **Spring Boot**, **React.js**, and **MySQL**.  
 
 - 💡 **Certifications**:  
-  - Java Full Stack Development (I.T. Vedant's Master in Full Stack Development).  
+  - **Java Full Stack Development**: I.T. Vedant's Master in Full Stack Development.  
   - Global Certifications from **IBM**, **AWS**, and **NSDC**.  
 
 - 🏆 **Experience**:  
-  - **Software Development Intern** at **Dabotics India Private Limited** (July 2024 - August 2024).  
+  - **Software Development Intern** at **Dabotics India Private Limited** (July 2024 - August 2024):  
     - Developed and integrated frontend features using **React**.  
     - Implemented backend API calls for seamless data interaction.  
-    - Created detailed documentation for enhanced project understanding.  
+    - Authored detailed project documentation.  
 
 - 🎨 **Hobbies**:  
-  I love painting 🎨 and enjoy learning new technologies!  
+  I enjoy painting 🎨 and exploring emerging technologies!  
 
 ---
 
@@ -36,54 +40,50 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 - HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap  
 
 ### **Backend Development**  
-- Java | JDBC | MySQL | MongoDB | Python  
+- Java | JDBC | MySQL | MongoDB | Python | Spring Boot  
 
 ### **Database Management**  
 - MySQL | MongoDB  
-- **Key Features**:  
   - Schema Design  
   - Writing Stored Procedures, Views, and Triggers  
 
 ### **Tools & Platforms**  
-- Git | GitHub | Netlify | Eclipse IDE | EmailJS | Postman  
+- Git | GitHub | Netlify | Eclipse IDE | Postman  
 
 ---
 
 ## 🌟 Projects  
 
 ### 1. [Portfolio Website](https://github.com/Rak-Code/rakportfolio)  
-- **Technologies Used**: React.js, Tailwind CSS  
+- **Technologies**: React.js, Tailwind CSS  
 - **Features**:  
-  - Dynamic project showcase with live GitHub repository links and demos.  
-  - Fully responsive design for mobile, tablet, and desktop.  
-  - Integrated contact form with **EmailJS** for easy communication.  
+  - Dynamic project showcase with live GitHub links.  
+  - Responsive design for all devices.  
+  - Integrated contact form with **EmailJS**.  
 
-### 2. [Banking Management System](https://github.com/Rak-Code/BankingManagementSystem)  
-- **Technologies Used**: Core Java, JDBC  
-- **Key Features**:  
-  - Account management with unique IDs, balances, and interest rates.  
-  - Real-time transaction validation with custom exception handling.  
-  - Demonstrated OOP principles: encapsulation, inheritance, and polymorphism.  
+### 2. [E-Commerce Backend System](https://github.com/Rak-Code/JavaFinalProject)  
+- **Technologies**: Core Java, JDBC  
+- **Features**:  
+  - CRUD operations for products.  
+  - Role-based access control (admin/user).  
+  - Persistent storage and modular code design.  
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)  
-- **Technologies Used**: MySQL 
+- **Technologies**: MySQL  
 - **Key Contributions**:  
-  - Designed a database schema for user management, order processing, and product handling.  
-  - Implemented stored procedures and views for efficient data management.  
-  - Developed triggers for password validation and activity logging.  
+  - Designed a schema for user, order, and product management.  
+  - Implemented stored procedures and triggers.  
+  - Created views for efficient data aggregation.  
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=light&hide=issues&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=light&hide=issues&count_private=true&include_all_commits=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=css,html)](https://github.com/Rak-Code/github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D)  
 
 ---
-
 
 ## 🌍 Connect with Me  
 
@@ -93,7 +93,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer dedicated to s
 
 ---
 
-Let's collaborate and build something amazing together! ✨  
+Feel free to collaborate and build amazing projects with me! ✨  
 
 ---
 
+Let me know if there are more changes you'd like!
