@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
   - Responsive design for all devices.  
   - Integrated contact form with **EmailJS**.  
 
-### [Java Console-Based Quiz Application]  
+### [Java Console-Based Quiz Application](https://github.com/Rak-Code/JavaConsoleQuizApp)  
 - **Technologies**: Core Java, JDBC, MySQL  
 - **Features**:  
   - User details input and score calculation.  
