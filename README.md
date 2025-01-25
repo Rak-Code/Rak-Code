@@ -63,12 +63,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
   - Responsive design for all devices.  
   - Integrated contact form with **EmailJS**.  
 
-### 2. [E-Commerce Backend System](https://github.com/Rak-Code/JavaFinalProject)  
-- **Technologies**: Core Java, JDBC  
+### [Java Console-Based Quiz Application]  
+- **Technologies**: Core Java, JDBC, MySQL  
 - **Features**:  
-  - CRUD operations for products.  
-  - Role-based access control (admin/user).  
-  - Persistent storage and modular code design.  
+  - User details input and score calculation.  
+  - Multiple-choice questions on Java OOP concepts.  
+  - Scores saved to a MySQL database using JDBC.   
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)  
 - **Technologies**: MySQL  
