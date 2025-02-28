@@ -64,11 +64,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
   - Integrated contact form with **EmailJS**.  
 
 ### [Java Console-Based Quiz Application](https://github.com/Rak-Code/JavaConsoleQuizApp)  
-- **Technologies**: Core Java, JDBC, MySQL  
-- **Features**:  
-  - User details input and score calculation.  
-  - Multiple-choice questions on Java OOP concepts.  
-  - Scores saved to a MySQL database using JDBC.   
+- *Java Quiz Spring Boot Application  
+**Technologies:** Spring Boot, Spring Data JPA, MySQL, HTML, CSS, Bootstrap, JavaScript  
+**Features:**  
+- User name input and interactive OOP quiz with progress bar.  
+- Immediate feedback on answers and score display on submission.  
+- Scores saved to MySQL database via JPA. 
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)  
 - **Technologies**: MySQL  
