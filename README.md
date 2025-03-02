@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
   - Responsive design for all devices.  
   - Integrated contact form with **EmailJS**.  
 
-### [Quiz Spring Boot Application]([(https://github.com/Rak-Code/QuizAppSpringBoot)])  
+### [Quiz Spring Boot Application](https://github.com/Rak-Code/QuizAppSpringBoot)  
 - *Java Quiz Spring Boot Application  
 **Technologies:** Spring Boot, Spring Data JPA, MySQL, HTML, CSS, Bootstrap, JavaScript  
 **Features:**  
