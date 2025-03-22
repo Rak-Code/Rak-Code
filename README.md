@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer known for prob
   - Responsive design for all devices.  
   - Integrated contact form with **EmailJS**.  
 
-### 2.[Quiz Spring Boot Application](https://github.com/Rak-Code/QuizAppSpringBoot)  
+### 2.[Athena E-commerce Project](https://github.com/Rak-Code/Athena))  
 **Athena E-commerce Project (Short Summary)**  
 Athena is a full-stack e-commerce application with both a user-facing storefront and an admin panel, built using React (frontend) and Spring Boot (backend).
 
@@ -87,18 +87,6 @@ Athena is a full-stack e-commerce application with both a user-facing storefront
   - **Order Management:** View/update orders, filter by status  
   - **User Management:** Manage user accounts  
 
-### Recent Improvements
-- **Wishlist Functionality:** Fixed ID inconsistencies  
-- **User ID Handling:** Enhanced across frontend and backend  
-- **Error Handling:** Improved validation and reporting  
-- **Registration Process:** Better validation and feedback  
-
-### Architecture
-- **Frontend:** Component-based React with Context API  
-- **Backend:** RESTful services using Spring Boot (controllers, services, repositories)  
-- **Database:** Relational design with JPA ORM  
-
-Athena provides a robust, real-world-ready e-commerce experience with a modern tech stack, strong security, and an intuitive admin interface.
 
 ### 3. [E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)  
 - **Technologies**: MySQL  
