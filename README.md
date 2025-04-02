@@ -1,8 +1,6 @@
 
 
 
-........ . 
-
 
 # Hi there, I'm Rakesh Gupta! 👋  
 
@@ -12,7 +10,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Developer known for problem-solving skills and delivering high-quality results in dynamic environments. Here's a glimpse into my journey, skills, and projects.
 
----
+
 
 ## 🚀 About Me  
 
