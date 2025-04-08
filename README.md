@@ -9,7 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=typescript,css,html" alt="Top Langs" />
   </a>
 </div>
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rak-Code&repo=PersonalPortfolioNextJs)](https://github.com/Rak-Code/PersonalPortfolioNextJs)
+
+
 
 
 
