@@ -9,6 +9,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=typescript,css,html" alt="Top Langs" />
   </a>
 </div>
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rak-Code&repo=PersonalPortfolioNextJs)](https://github.com/Rak-Code/PersonalPortfolioNextJs)
+
+
 
 Welcome to my GitHub profile! I'm a passionate Software Developer with strong problem-solving skills, dedicated to delivering high-quality results in dynamic environments. Here's a glimpse into my journey, skills, and projects.
 
