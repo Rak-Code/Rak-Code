@@ -6,7 +6,7 @@
   <img src="https://streak-stats.demolab.com/?user=Rak-Code&theme=light&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br />
   <a href="https://github.com/Rak-Code/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&hide=typescript,css,html" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&" alt="Top Langs" />
   </a>
 </div>
 
