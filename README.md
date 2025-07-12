@@ -1,4 +1,3 @@
-.......... ............ 
 # Hi there, I'm Rakesh Gupta! 👋
 
 <div align="center">
@@ -9,92 +8,74 @@
   </a>
 </div>
 
-
-
-
-
-Welcome to my GitHub profile! I'm a passionate Software Developer with strong problem-solving skills, dedicated to delivering high-quality results in dynamic environments. Here's a glimpse into my journey, skills, and projects.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with strong problem-solving abilities and a keen interest in scalable web technologies. I bring 1+ years of experience building full-stack applications using Java, Spring Boot, and React.
 
 ---
 
 ## 🚀 About Me
 
 - **🎓 Education:**  
-  - Bachelor's of Science in Information Technology from **Chetana Institute of Management and Research College** (CGPA: 8.83/10).
+  - Bachelor of Science in Information Technology,  
+    **Chetana Institute of Management and Research** (CGPA: 8.83/10)
+
+- **💼 Professional Experience:**  
+  - **Software Developer** – *Adita Enterprise* (May 2024 – July 2025)  
+    - Developed scalable full-stack applications using **Java**, **Spring Boot**, and **React**  
+    - Created secure REST APIs and integrated **Java Mail API** for notifications  
+    - Built automated punch-in/out features using **Spring’s `@Scheduled`**, triggered by geolocation  
+    - Managed deployments via **Git**, **Docker**, and AWS (**EC2**, **S3**, **RDS**) pipelines  
 
 - **🌱 Currently Learning:**  
-  - Advancing in **Full Stack Development** with a focus on **Spring Boot**, **React.js**, and **MySQL**.
+  - CI/CD best practices, AWS DevOps, and Advanced Spring Boot patterns
 
 - **💡 Certifications:**  
-  - **Java Full Stack Development**: I.T. Vedant's Master in Full Stack Development.  
-  - Global Certifications from **IBM**, **AWS**, and **NSDC**.
-
-- **🏆 Experience:**  
-  - **Software Development Intern** at **Dabotics India Private Limited** (July 2024 - August 2024)
-    - Developed and integrated frontend features using **React**.
-    - Implemented backend API calls for seamless data interaction.
-    - Authored detailed project documentation.
+  - **Java Full Stack Development** – I.T. Vedant  
+  - Certified by **IBM**, **NSDC**, and **AWS** (Pending)  
+  - [View Certificate](https://drive.google.com/file/d/15OtXeIAv2y0TzojZbKZo-SYJXPvQK_Ok/view)
 
 - **🎨 Hobbies:**  
-  - I enjoy painting and exploring emerging technologies!
+  - I enjoy painting, exploring AI integrations, and building tech prototypes.
 
 ---
 
 ## 💻 Skills
 
 ### **Frontend Development**
-- HTML | CSS | JavaScript | React.js | Tailwind CSS | Bootstrap
+- HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS | Bootstrap
 
 ### **Backend Development**
-- Java | JDBC | MySQL | MongoDB | Spring Boot
+- Java | Spring Boot | REST APIs | JWT | Java Mail API
 
-### **Database Management**
-- MySQL | MongoDB  
-  - Schema Design
+### **Databases**
+- MySQL | MongoDB | PostgreSQL
 
-### **Tools & Platforms**
-- Git | GitHub | Netlify | Eclipse IDE | Postman
+### **DevOps & Tools**
+- Git | GitHub | Docker | AWS (EC2, S3, RDS) | Postman | Netlify
 
 ---
 
 ## 🌟 Projects
 
-### [1. Portfolio Website](https://github.com/Rak-Code/rakportfolio)
-- **Technologies:** React.js, Tailwind CSS  
+### [1. E-Commerce Clothing Platform](https://github.com/Rak-Code/Athena)
+- **Stack:** Spring Boot, React.js, MySQL, JWT, Razorpay
 - **Highlights:**
-  - Dynamic project showcase with live GitHub links.
-  - Fully responsive design for all devices.
-  - Integrated contact form using **EmailJS**.
+  - Full-stack e-commerce solution with admin panel and role-based access
+  - Secure user authentication and product/order management
+  - AI Chatbot for customer support and integrated payment gateway using **Razorpay**
+  - Email alerts for order updates via **Java Mail API**
 
-### [2. Athena E-commerce Project](https://github.com/Rak-Code/Athena)
-- **Overview:**  
-  Athena is a full-stack e-commerce application featuring both a user-facing storefront and an admin panel.
-  
-- **Technology Stack:**
-  - **Frontend:** React.js, Bootstrap, JavaScript  
-  - **Backend:** Spring Boot, Spring Data JPA, MySQL  
-  - **Authentication:** JWT with role-based access control
-  
-- **Key Features:**
-  - **User Side:**  
-    - **Product Browsing:** Search, filter, and view detailed product info.  
-    - **Shopping Cart & Wishlist:** Easily add/remove items, track totals, and save favorites.  
-    - **User Authentication:** Secure registration and login process.  
-    - **Order Management:** Place orders, view history, and track status.  
-    - **User Profile & Reviews:** Edit personal info, manage wishlist, and post reviews.
-    
-  - **Admin Panel:**  
-    - **Dashboard:** Overview of orders and key performance metrics.  
-    - **Product Management:** Add, edit, or delete products seamlessly.  
-    - **Order Management:** Monitor and update orders with filtering options.  
-    - **User Management:** Efficiently manage user accounts.
+### [2. Portfolio Website](https://github.com/Rak-Code/rakportfolio)
+- **Tech Used:** React.js, Tailwind CSS, Node Mailer
+- **Highlights:**
+  - Fully responsive portfolio with interactive contact form
+  - Email notifications integrated using **SMTP/Node.js**
+  - Deployed on Vercel with SEO optimizations
 
 ### [3. E-Commerce Database System](https://github.com/Rak-Code/MySQLProject)
-- **Technologies:** MySQL  
-- **Contributions:**
-  - Designed a robust schema for user, order, and product management.
-  - Implemented stored procedures and triggers for data integrity.
-  - Created views for efficient data aggregation and reporting.
+- **Tech Used:** MySQL
+- **Highlights:**
+  - Designed robust relational schemas for user, order, and product management
+  - Used stored procedures, triggers, and views for business logic and analytics
 
 ---
 
@@ -110,8 +91,12 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with strong pr
 
 ## 🌍 Connect with Me
 
-- **GitHub:** [Rak-Code](https://github.com/Rak-Code)
-- **Email:** [rakeshgupta136a@gmail.com](mailto:rakeshgupta136a@gmail.com)
+- **GitHub:** [Rak-Code](https://github.com/Rak-Code)  
+- **LinkedIn:** [rakesh-gupta-developer](https://linkedin.com/in/rakesh-gupta-developer)  
+- **Portfolio:** [rakesh-gupta-portfolio](https://rakesh-gupta-portfolio-next-js-six.vercel.app)  
+- **Email:** [rakeshgupta136a@gmail.com](mailto:rakeshgupta136a@gmail.com)  
 - **Phone:** +91 7715820632
 
-Feel free to reach out, collaborate, or build amazing projects together! ✨
+---
+
+✨ Let's connect, collaborate, and innovate together!
