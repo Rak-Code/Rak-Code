@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Rakesh Gupta 👋
 
 🚀 **Java Full Stack Developer** | 💻 **Spring Boot & React Enthusiast** | 🤖 **Prompt Engineering Explorer**
@@ -36,10 +37,10 @@ I’m passionate about building **scalable web applications**, automating workfl
 
 ## 🛠️ Tech Stack
 
-**Backend:** Java, Spring Boot
-**Frontend:** React, Redux, JavaScript (ES6+), Tailwind CSS
-**Databases:** MySQL, PostgreSQL, MongoDB
-**DevOps & Cloud:** Git, GitHub, Docker, Jenkins, AWS (EC2, S3, RDS)
+**Backend:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge\&logo=redux\&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+**DevOps & Cloud:** ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge\&logo=jenkins\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ---
 
@@ -59,6 +60,19 @@ I’m passionate about building **scalable web applications**, automating workfl
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rak-Code&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rak-Code&theme=radical" alt="GitHub Streak" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>  
+
+---
+
 ## 🏆 Achievements & Certifications
 
 * Java Full Stack Development & Prompt Engineering – *I.T. Vedant*
@@ -69,14 +83,15 @@ I’m passionate about building **scalable web applications**, automating workfl
 
 ## 📫 Connect With Me
 
-* ✉️ [rakeshgupta136a@gmail.com](mailto:rakeshgupta136a@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/rakesh-gupta-developer)
-* 💻 [GitHub](https://github.com/Rak-Code)
-* 🌍 [Portfolio](https://rakesh-gupta-portfolio-next-js-six.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rakeshgupta136a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rakesh-gupta-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rak-Code)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)](https://rakesh-gupta-portfolio-next-js-six.vercel.app/)
 
 ---
 
 ✨ *“Code. Automate. Innovate.”* ✨
 
 ---
+
 
