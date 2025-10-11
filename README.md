@@ -68,7 +68,7 @@ I’m passionate about building **scalable web applications**, automating workfl
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rak-Code&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="160" />
 </p>  
 
 ---
